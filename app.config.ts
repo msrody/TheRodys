@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'The Rodys',
+    description: 'The Rodys is a site for the Rodys.',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
