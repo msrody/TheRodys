@@ -1,8 +1,0 @@
----
-title: Articles
-layout: page
-path: ~/articles
----
-
-::articles-list{path="articles"}
-::
