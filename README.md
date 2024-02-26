@@ -1,31 +1,16 @@
-# Alpine Starter
+# The Rodys - a website for Chelly & Mike Rody
+This is a website for Chelly & Mike Rody.  
 
-Starter template for [Alpine](https://alpine.nuxt.space).
 
-## Clone
+## Build tooling
+It is buildt on NUXT using NUXT Studio and the Aplpine Starter template which you can find here: [Alpine](https://alpine.nuxt.space)
 
-Clone the repository (using `nuxi`):
+## Deployment
+The sight is deployed to ?????
 
-```bash
-npx nuxi init -t themes/alpine
-```
 
-## Setup
 
-Install dependencies:
-
-```bash
-pnpm install
-```
-
-## Development
-
-```bash
-pnpm dev
-```
-
-## Edge Side Rendering
-
+--- From the Alpine Readme for temporary reference ---
 Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
 
 Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
