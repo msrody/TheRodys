@@ -1,9 +1,9 @@
----
+
 title: 'Gathering All Kinds of People'
 draft: true
 description: 'IES like other IC's is a church made up of hundreds of different kinds of people from different places, backgrounds, traditions and expereinces.'
 head: true
----
+
 
 # IES - Gathering All Kinds Of People
 
