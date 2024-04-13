@@ -1,6 +1,6 @@
 ---
 title: 'Gathering All Kinds of People'
-description: 'IES like other IC's is a church made up of hundreds of different kinds of people from different places, backgrounds, traditions and expereinces.'
+description: 'IES like other ICs is a church made up of hundreds of different kinds of people from different places, backgrounds, traditions and expereinces.'
 draft: true
 head: true
 ---
