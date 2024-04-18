@@ -14,7 +14,7 @@ description: The alternative to punishment.
 
 Discipline isn't about punishment, it's preventative for punishment. It is preparation for success. It can be applied after failure, but it's only discipline when it is done to build people up and prepare them to succeed and to overcome.
 
-If you are well disciplined you will be prepared for the task or the trial. Discipline is about prepartation. It's what coaches push athletes to do in preparation for their event. It's what teachers direct students to do in preparation for success. It's what supervisors require to prepare workers do to make sure the job is done right and on time. It's what parents do to prepare their kids to function in the world without burning their fingers on the hot stove or electrocuting themselves by licking the electrical socket. Discipline is one way that parents show love to thier children by giving them every opportunity to overcome the obstacles of life.
+If you are well disciplined you will be prepared for the task or the trial. Discipline is about prepartation. It's what coaches push athletes to do in preparation for their event. It's what teachers direct students to do in preparation for success. It's what supervisors require to prepare workers to make sure the job is done right and on time. It's what parents do to prepare their kids to function in the world without burning their fingers on the hot stove or electrocuting themselves by licking the electrical socket. Discipline is one way that parents show love to thier children by giving them every opportunity to overcome the obstacles of life. It is a process of developing the mind and muscles to do what's best.
 
 ## God discipline us for good.
 
