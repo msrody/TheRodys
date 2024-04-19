@@ -3,8 +3,8 @@ export default defineAppConfig({
     title: 'The Rodys',
     description: 'The Rodys is a site for the Rodys.',
     image: {
-      src: '/social-card-preview.png',
-      alt: 'An image showcasing my project.',
+      src: '/M&CatKarim&AmandasWedding.jpg',
+      alt: 'Chelly & Mike Rody - AGWM Missionaries to Indonesia.',
       width: 400,
       height: 300
     },
@@ -31,13 +31,18 @@ export default defineAppConfig({
       message: 'Follow us on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: 'nuxtlabs',
-      instagram: 'atinuxt',
+      twitter: '@Mike_Rody',
+      instagram: 'michaelsrody',
+
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/company/nuxtlabs'
-      }
+      },
+
+      github: 'msrody',
+      facebook: 'mike.rody',
+      youtube: '@ieschurch'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
