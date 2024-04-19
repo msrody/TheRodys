@@ -6,8 +6,8 @@ author:
   link: https://www.facebook.com/mike.rody
 date: 2024-04-17T00:00:00.000Z
 layout: article
-title: IC's Gathering All Kinds of People
-description: IES like other ICs is a church made up of hundreds of different kinds of people from different places, backgrounds, traditions and expereinces.
+title: IC's are for foreigners too.
+description: IES is proud to be a church for all nations and ethnicities with representatives from all the continents.
 draft: true
 head: true
 ---
@@ -16,16 +16,16 @@ head: true
 ---
 image: '/Articles/IC Series/February4-teens-111 (Small).jpg'
 ---
-
 #title
-IES is a Church made up of all kinds of people
+IC's are for foreigners too.
 #description
-IES like other ICs is a church made up of hundreds of different kinds of people from different places, backgrounds, traditions and expereinces.
-
+IES is proud to be a church for all nations and ethnicities with representatives from all the continents.
 ::
-
-
 
 # IC's Are For Foreigners Too
 
-Healthy IC's are always sending believers off to other places. Helping their people find new, healthy churches in the place they are moving to. May in the IC locals with a life long participation, but many are on short term assignments or come with no plan to stay until God changes their direction. IC's need to be churches that are socially agile, able to absorb new people and release those who are going away, while renewing quickly with those who come back. Many languages may be represented, social groups may form by ethnicity, nationality or language affinity, but in the great diversity, we are the church, full of the Holy Spirit and called to unity in the body of Christ to fulfill His purpose and display His glory to the whole world.
+IES has a lot of foreigners though more Indoesians than any other group. Healthy IC's are always sending believers off to other places. Helping their people find new, healthy churches in the place they are moving to. We have Indoesian members with a life long participation in the church.  We have people who were once foreigners and are now Indonesian. We have a regular cycle of foreigners who find IES as a church home in Jakarta, a place to grow while they are here. Some come for short term assignments or come with no plan to stay until God changes their direction. 
+
+IC's need to be churches that are socially agile, able to absorb new people and release those who are going away, while renewing quickly with those who come back. This may be on of the greatest assets of an IC. Many languages may be represented, social groups may form by ethnicity, nationality, University attendance or language affinity, but in the great diversity, we are the Church, full of the Holy Spirit and called to unity in the body of Christ to fulfill His purpose and display His glory to the whole world.
+
+As the church, we are God's answer for the world around us and at IES, we take that calling very seriously.
