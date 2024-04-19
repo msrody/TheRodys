@@ -19,7 +19,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         // possible value are : true | false
-        enabled: false,
+        enabled: true,
 
         // our github repository
         repository: 'https://www.github.com/nuxt-themes/alpine',
