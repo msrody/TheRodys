@@ -5,12 +5,12 @@ head:
   title: Welcome Page
   description: AGWM Missionary Associates serving in Indonesia doing International Church Ministry in [IES Jakarta](http://iesjakarta.org/).
 title: Welcome
-cover: /Rodys20220722-Cropped16x9-Small.jpg
+cover: '/Rodys20220722-Cropped16x9-Small.jpg'
 ---
 
 ::hero
 ---
-image: /Rodys20220722-Cropped16x9-Small.jpg
+image: '/Rodys20220722-Cropped16x9-Small.jpg'
 ---
 #title
 The Rodys
