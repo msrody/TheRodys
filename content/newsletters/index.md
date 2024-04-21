@@ -1,5 +1,5 @@
 ---
-title: Communications
+title: Newsletters
 layout: page
 description: A list of our most recent emails.
 ---
@@ -11,5 +11,5 @@ Communications Page
 A list of our recent newsletter content.
 ::
 
-::articles-list{path="communications"}
+::articles-list{path="Newsletters"}
 ::
