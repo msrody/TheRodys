@@ -11,5 +11,5 @@ Communications Page
 A list of our recent newsletter content.
 ::
 
-::articles-list{path="Newsletters"}
+::articles-list{path="newsletters"}
 ::
