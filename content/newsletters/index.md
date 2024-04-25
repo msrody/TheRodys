@@ -1,4 +1,5 @@
 ---
+cover: /Articles/IC Series/people 20231126_102809193-sm.jpg
 title: Newsletters
 layout: page
 description: A list of our most recent emails.
@@ -6,7 +7,7 @@ description: A list of our most recent emails.
 
 ::hero
 ---
-image: /M&CatKarim&AmandasWeddingLandscape.jpg
+image: /Articles/IC Series/people 20231126_102809193-sm.jpg
 ---
 #title
 Communications Page
