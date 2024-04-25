@@ -1,5 +1,5 @@
 ---
-cover: /Articles/IC Series/people 20231126_102809193-sm.jpg
+cover: /Articles/IC%20Series/originalKGroup.jpg
 title: Newsletters
 layout: page
 description: A list of our most recent emails.
@@ -7,7 +7,7 @@ description: A list of our most recent emails.
 
 ::hero
 ---
-image: /Articles/IC Series/people 20231126_102809193-sm.jpg
+image: /Articles/IC%20Series/originalKGroup.jpg
 ---
 #title
 Communications Page
