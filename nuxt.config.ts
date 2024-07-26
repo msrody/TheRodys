@@ -3,9 +3,9 @@ export default defineNuxtConfig({
   extends: '@nuxt-themes/alpine',
     "nitro": {
         "output": {
-            dir: 'output',
-            serverDir: 'output/server',
-            publicDir: 'output/public'
+            dir: 'dist',
+            serverDir: 'dist/server',
+            publicDir: 'dist/public'
         }
     },
   modules: [
