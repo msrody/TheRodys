@@ -9,5 +9,7 @@ export default defineNuxtConfig({
     '@nuxt/devtools',
     '@nuxthq/studio'
 
-  ]
+  ],
+
+  compatibilityDate: '2024-07-26'
 })
