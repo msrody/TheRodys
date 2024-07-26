@@ -1,5 +1,5 @@
 ---
-cover: /articles/IC%20Series/originalKGroup.jpg
+cover: ~/assets/img/articles/IC%20Series/originalKGroup.jpg
 author:
   name: MSRody
   avatarUrl: public/MikeWithMicBlue_sm.jpg
@@ -12,7 +12,7 @@ description: Thoughts on communicating the power and impact of International Chu
 
 ::hero
 ---
-image: '/articles/IC%20Series/original_KGroup.jpg'
+image: '~/assets/img/articles/IC%20Series/original_KGroup.jpg'
 ---
 #title
 IES - A Model of Interational Church Ministry.
@@ -31,7 +31,7 @@ Subsequently my wife and I have been part of international churches in Indonesia
 
 <center>
 
-![Chelly leading worship at IES Jakarta](/articles/IC%20Series/Chelly%20LeadingWorship20230625-sm.jpg)
+![Chelly leading worship at IES Jakarta](~/assets/img/articles/IC%20Series/Chelly%20LeadingWorship20230625-sm.jpg)
 
 </center>
 
@@ -43,7 +43,7 @@ How all this diversity comes together is what makes IC's unique. This uniqueness
 
 <center>
 
-![DSC08386 (Small).JPG](/articles/IC%20Series/DSC08386%20(Small).JPG)
+![DSC08386 (Small).JPG](~/assets/img/articles/IC%20Series/DSC08386%20(Small).JPG)
 
 </center>
 
