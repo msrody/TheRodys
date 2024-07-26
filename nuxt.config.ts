@@ -1,13 +1,12 @@
 export default defineNuxtConfig({
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
-    "nitro": {
-        "dist": {
-            dir: 'dist',
-            serverDir: 'dist/server',
-            publicDir: 'dist/public'
-        }
-    },
+  nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    }
+  },
+
   modules: [
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
