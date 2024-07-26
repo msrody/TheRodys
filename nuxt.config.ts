@@ -2,7 +2,7 @@ export default defineNuxtConfig({
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
     "nitro": {
-        "output": {
+        "dist": {
             dir: 'dist',
             serverDir: 'dist/server',
             publicDir: 'dist/public'
