@@ -31,22 +31,21 @@ We've enjoyed being back in the US, though we really miss Jakarta and especially
 We've seen a lot of unique things as we've traveled about these past few weeks.  
 
 ![Unique Vehicles](/Articles/Itinerating%202024/202407PhotoCollages/Vehicles%20-COLLAGE%20-%20Smallest.jpg)
-
 *Lots of unique vehicles.*
 
-[![Interesting Annimals](/Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Smallest.jpg)](/Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg)
+![Interesting Animals](/Articles/Itinerating%202024/202407PhotoCollages/Animals-COLLAGE%20-%20Smallest.jpg)
 *So many interesting animals.*
 
 Unfortunetly we having didn't remember to take pictures of them all. This includes our friends.  We had so much fun we forgot to take pictures, but here are a few we did remember to photograph.
 
-![Lots of friends](/Articles/Itinerating 2024/202407PhotoCollages/Friends -COLLAGE - Smallest.jpg)
+![Lots of friends](/Articles/Itinerating%202024/202407PhotoCollages/Friends -COLLAGE%20-%20Smallest.jpg)
 *We've seen lots of friends*
 
 
 Family of course is a big part of being back in the US. It's always good to be with our young men, and Mom. We are blessed to have spent some time with Teri, Kirk and Hayden as well as Auntie Charlotte, with whome we keep forgetting to take pictures.  
 
-[![Family is fundamental.](/Articles/Itinerating 2024/202407PhotoCollages/Family_COLLAGE - Smallest.jpg)](/Articles/Itinerating 2024/202407PhotoCollages/Family_COLLAGE - Medium.jpg)
-
+![Family is fundamental.](/Articles/Itinerating%202024/202407PhotoCollages/Family_COLLAGE%20-%20Smallest.jpg)
+*Great to be with family.*
 
 ## Itineration
 
