@@ -38,7 +38,7 @@ css({
         '--cols': (props) => props.images.length < 2 ? props.images.length : 2
       },
       img: {
-        objectFit: 'fill',
+        objectFit: 'contain',
         width: '100%',
         aspectRatio: '16 / 9',
         borderRadius: '{radii.md}'
