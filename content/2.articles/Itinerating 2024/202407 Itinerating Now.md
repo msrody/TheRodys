@@ -32,17 +32,13 @@ We've seen a lot of unique things as we've traveled about these past few weeks.
 
 ::galleryPortrait
 ---
-images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Medium.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg]
+images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Medium.jpg "Lots of unique vehicles.", /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg "So many interesting animals."]
 ---
 
 ::
 
 
-
-![Unique Vehicles](/Articles/Itinerating%202024/202407PhotoCollages/Vehicles%20-COLLAGE%20-%20Smallest.jpg "*Lots of unique vehicles.*") ![Interesting Animals](/Articles/Itinerating%202024/202407PhotoCollages/Animals-COLLAGE%20-%20Smallest.jpg "*So many interesting animals.*")
-
-
-Unfortunetly we having didn't remember to take pictures of them all. This includes our friends.  We had so much fun we forgot to take pictures, but here are a few we did remember to photograph.
+Unfortunetly, we having didn't remember to take pictures of them all. This includes our friends.  We had so much fun we forgot to take pictures, but here are a few we did remember to photograph.
 
 ![Lots of friends](/Articles/Itinerating%202024/202407PhotoCollages/Friends%20-COLLAGE%20-%20Smallest.jpg "*We've seen lots of friends*")
  
