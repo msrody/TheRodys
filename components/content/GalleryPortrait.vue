@@ -31,7 +31,7 @@ css({
     '.layout': {
       display: 'grid',
       gap: '{space.8}',
-      my: '{space.16}',
+      my: '{space.6}',
       '--cols': 1,
       gridTemplateColumns: 'repeat(var(--cols), minmax(0, 1fr))',
       '@md': {
