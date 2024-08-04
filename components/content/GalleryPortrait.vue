@@ -40,7 +40,7 @@ css({
       img: {
         objectFit: 'contain',
         width: '100%',
-        aspectRatio: '16 / 9',
+        aspectRatio: '16 / 16',
         borderRadius: '{radii.md}'
       }
     }
