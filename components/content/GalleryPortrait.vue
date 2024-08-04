@@ -30,7 +30,7 @@ css({
   '.gallery': {
     '.layout': {
       display: 'grid',
-      gap: '{space.8}',
+      gap: '{space.4}',
       my: '{space.16}',
       '--cols': 1,
       gridTemplateColumns: 'repeat(var(--cols), minmax(0, 1fr))',
