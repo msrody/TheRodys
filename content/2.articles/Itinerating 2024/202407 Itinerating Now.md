@@ -32,7 +32,7 @@ We've seen a lot of unique things as we've traveled about these past few weeks.
 
 ::gallery
 ---
-images: /Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Smallest.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Smallest.jpg
+images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Smallest.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Smallest.jpg]
 ---
 
 ::
