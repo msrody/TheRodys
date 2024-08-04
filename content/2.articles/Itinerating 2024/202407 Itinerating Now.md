@@ -30,7 +30,7 @@ We've enjoyed being back in the US, though we really miss Jakarta and especially
 
 We've seen a lot of unique things as we've traveled about these past few weeks.  
 
-::galleryportrait
+::galleryPortrait
 ---
 images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Smallest.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Smallest.jpg]
 ---
