@@ -38,7 +38,7 @@ The things we've seen are interesting, but far better are all the people we've b
 
 ::galleryPortrait
 ---
-images: /Articles/Itinerating%202024/202407PhotoCollages/Friends%20-COLLAGE%20-%20Smallest.jpg, /Articles/Itinerating%202024/202407PhotoCollages/Family_COLLAGE%20-%20Smallest.jpg
+images: [/Articles/Itinerating%202024/202407PhotoCollages/Friends%20-COLLAGE%20-%20Smallest.jpg, /Articles/Itinerating%202024/202407PhotoCollages/Family_COLLAGE%20-%20Smallest.jpg]
 ---
 ::
 
