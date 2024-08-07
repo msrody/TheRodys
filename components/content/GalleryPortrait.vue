@@ -24,7 +24,7 @@ defineProps({
         :src="image"
         :width="16"
         :height="9"
-        :alt=""
+        :alt="alttxt[index]"
       />
     </div>
   </section>
