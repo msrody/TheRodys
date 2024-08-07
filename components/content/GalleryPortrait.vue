@@ -24,7 +24,7 @@ defineProps({
         :src="image"
         :width="16"
         :height="9"
-      ><div>{{ alttxt }}</div></NuxtImg>
+      ><div>{{ alttxt[index] }}</div></NuxtImg>
 
     </div>
   </section>
