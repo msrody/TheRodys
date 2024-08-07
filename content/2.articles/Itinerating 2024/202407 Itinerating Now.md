@@ -30,7 +30,7 @@ We've enjoyed being back in the US. Though we really miss Jakarta and especially
 
 ::galleryPortrait
 ---
-images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Medium.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg]
+images: [{image: /Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Medium.jpg, alt: "Interesting Vehicles"},{image: /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg, alt: "A few of the interesting animals we've seen....no, not James, the cougar."} ]
 ---
 ::
 
