@@ -35,6 +35,7 @@ alttxt: ["Interesting Vehicles", "A few of the interesting animals we've seen...
 ---
 ::
 
+
 The things we've seen are interesting, but far better are all the people we've been able to reconnect with. We've had gatherings and surprise encounters alike. Much of the time we had so much fun we forgot to take pictures. This is especially true for family. Family of course is a big part of being back in the US. It's always good to be with our young men, Julius and James and of course to see Mom. We are blessed to have spent time with Teri, Kirk and Hayden as well as Auntie Charlotte, with whom we keep forgetting to take pictures. 
 
 ::galleryPortrait

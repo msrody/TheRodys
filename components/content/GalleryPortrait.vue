@@ -5,6 +5,10 @@ defineProps({
   images: {
     type: Array as PropType<string[]>,
     default: () => []
+  },
+  alttxt: {
+    type: Array as PropType<string[]>,
+    default: () => []
   }
 })
 </script>
@@ -20,6 +24,7 @@ defineProps({
         :src="image"
         :width="16"
         :height="9"
+        :alt=""
       />
     </div>
   </section>
