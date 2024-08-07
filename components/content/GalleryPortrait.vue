@@ -18,15 +18,17 @@ defineProps({
     <div
       class="layout"
     >
- 
+    <div
+      v-for="(alt, index) in alttxt"
+      >  
     <NuxtImg
         v-for="(image, index) in images"
         :key="index"
         :src="image"
         :width="16"
         :height="9"
-        >{{ alttxt }}</NuxtImg>
-
+      />
+      {{ alt }}</div>
     </div>
   </section>
 </template>
