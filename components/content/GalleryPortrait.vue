@@ -24,8 +24,10 @@ defineProps({
         :src="image"
         :width="16"
         :height="9"
-        v-bind:alt=alttxt[index]
       />
+      <div
+      v-for="(alt, index) in alttxt"
+      >{{ alt }}</div>
     </div>
   </section>
 </template>
