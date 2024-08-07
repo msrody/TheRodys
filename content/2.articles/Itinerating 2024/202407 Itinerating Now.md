@@ -26,23 +26,21 @@ The process of Itineration has begun. We are meeting with Pastors, visiting and 
 
 ## Back in the US
 
-We've enjoyed being back in the US. Though we really miss Jakarta and especially our church, [IES Jakarta](https://iesjakarta.org), we've enjoyed our time reconnecting with people and American culture. We've traveled alot of miles over the past few weeks. We've seen a lot of things in our travel so far. Unfortunately we couldn't take pictures of all of them but here are a few of the unique vehicles we've seen and some rather interesting animals as well.
+We've enjoyed being back in the US. Though we really miss Jakarta and especially our church, [IES Jakarta](https://iesjakarta.org), we've enjoyed our time reconnecting with people and American culture. We've traveled alot of miles over the past few weeks and in the process seen lot of interesting things along the way. Unfortunately we couldn't take pictures of all of them but here are a few of the unique vehicles we've seen and some rather interesting animals as well.
 
 ::galleryPortrait
 ---
 images: [/Articles/Itinerating 2024/202407PhotoCollages/Vehicles -COLLAGE - Medium.jpg, /Articles/Itinerating 2024/202407PhotoCollages/Animals-COLLAGE - Medium.jpg]
 ---
-
 ::
 
-The things we've seen are interesting, but far better are all the people we've been able to reconnect with. We've had gatherings and surprise encounters. We had so much fun we forgot to take pictures with many, but here are a few we did remember to take pictures with.
+The things we've seen are interesting, but far better are all the people we've been able to reconnect with. We've had gatherings and surprise encounters alike. Much of the time we had so much fun we forgot to take pictures. This is especially true for family. Family of course is a big part of being back in the US. It's always good to be with our young men, Julius and James and of course to see Mom. We are blessed to have spent time with Teri, Kirk and Hayden as well as Auntie Charlotte, with whom we keep forgetting to take pictures. 
 
-![Lots of friends](/Articles/Itinerating%202024/202407PhotoCollages/Friends%20-COLLAGE%20-%20Smallest.jpg "We've seen lots of friends.")
-
-
-Family of course is a big part of being back in the US. It's always good to be with our young men, Julius and James and of course to see Mom. We are blessed to have spent some time with Teri, Kirk and Hayden as well as Auntie Charlotte, with whome we keep forgetting to take pictures.  
-
-![Family is fundamental.](/Articles/Itinerating%202024/202407PhotoCollages/Family_COLLAGE%20-%20Smallest.jpg "*Great to be with family.*")
+::galleryPortrait
+---
+images: /Articles/Itinerating%202024/202407PhotoCollages/Friends%20-COLLAGE%20-%20Smallest.jpg, /Articles/Itinerating%202024/202407PhotoCollages/Family_COLLAGE%20-%20Smallest.jpg
+---
+::
 
 It's been great to be here, but now it's time to get to work.
 
