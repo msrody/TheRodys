@@ -6,8 +6,8 @@ author:
   link: https://www.facebook.com/mike.rody
 date: 2024-07-01T00:11:00.000Z
 layout: article
-title: Lots to see
-description: It's great to be back visiting in the US where there are so many thing so see and even more people to reconnect with.
+title: Back in the US and there's so much to see.
+description: It's great to be back visiting in the US where there are so many thing so see and even more people to reconnect with. We are blessed with the opportunity to see so many friends and family members.
 draft: true
 head: true
 ---
