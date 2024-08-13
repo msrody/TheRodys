@@ -17,10 +17,10 @@ head: true
 image: 'public/Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg'
 ---
 #title
-Our Itineration Has Begun!
+Back in the US!
 
 #description
-The process of Itineration has begun. We are meeting with Pastors, visiting and preaching at churches and making connections.
+We are back in the US and finding lots to see.  
 ::
 
 ## Back in the US
