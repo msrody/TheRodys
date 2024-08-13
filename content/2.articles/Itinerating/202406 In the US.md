@@ -1,10 +1,10 @@
 ---
-cover: /Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg
+cover: '/Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg'
 author:
   name: MSRody
   avatarUrl: public/MikeWithMicBlue_sm.jpg
   link: https://www.facebook.com/mike.rody
-date: 2024-07-31T00:16:00.000 -08:00
+date: 2024-08-01T08:08:00.000Z
 layout: article
 title: Lots to see
 description: It's great to be back visiting in the US where there are so many thing so see and even more people to reconnect with.
