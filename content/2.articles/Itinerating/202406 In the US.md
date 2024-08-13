@@ -4,7 +4,7 @@ author:
   name: MSRody
   avatarUrl: public/MikeWithMicBlue_sm.jpg
   link: https://www.facebook.com/mike.rody
-date: 2024-08-01T08:08:00.000Z
+date: 2024-07-01T00:11:00.000Z
 layout: article
 title: Lots to see
 description: It's great to be back visiting in the US where there are so many thing so see and even more people to reconnect with.
@@ -33,7 +33,6 @@ images: [public/Articles/Itinerating2024/202407PhotoCollages/Vehicles-COLLAGE-Me
 alttxt: ["Interesting Vehicles", "A few of the interesting animals we've seen....no, not James, the cougar."]
 ---
 ::
-
 
 The things we've seen are interesting, but far better are all the people we've been able to reconnect with. We've had gatherings and surprise encounters alike. Much of the time we had so much fun we forgot to take pictures. This is especially true for family. Family of course is a big part of being back in the US. It's always good to be with our young men, Julius and James and of course to see Mom. We are blessed to have spent time with Teri, Kirk and Hayden as well as Auntie Charlotte, with whom we keep forgetting to take pictures. 
 
