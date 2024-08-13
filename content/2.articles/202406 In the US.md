@@ -14,7 +14,7 @@ head: true
 
 ::hero
 ---
-image: 'public/Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg'
+image: /Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg
 ---
 #title
 Back in the US!
@@ -29,7 +29,7 @@ We've enjoyed being back in the US. Though we really miss Jakarta and especially
 
 ::galleryPortrait
 ---
-images: [public/Articles/Itinerating2024/202407PhotoCollages/Vehicles-COLLAGE-Medium.jpg, public/Articles/Itinerating2024/202407PhotoCollages/Animals-COLLAGE-Medium.jpg]
+images: [/Articles/Itinerating2024/202407PhotoCollages/Vehicles-COLLAGE-Medium.jpg, /Articles/Itinerating2024/202407PhotoCollages/Animals-COLLAGE-Medium.jpg]
 alttxt: ["Interesting Vehicles", "A few of the interesting animals we've seen....no, not James, the cougar."]
 ---
 ::
@@ -38,7 +38,7 @@ The things we've seen are interesting, but far better are all the people we've b
 
 ::galleryPortrait
 ---
-images: [public/Articles/Itinerating2024/202407PhotoCollages/Friends-COLLAGE-Smallest.jpg, public/Articles/Itinerating2024/202407PhotoCollages/Family_COLLAGE-Smallest.jpg]
+images: [/Articles/Itinerating2024/202407PhotoCollages/Friends-COLLAGE-Smallest.jpg, /Articles/Itinerating2024/202407PhotoCollages/Family_COLLAGE-Smallest.jpg]
 alttxt: ["We find friends everywhere.","Family is fundamental and much better in person."]
 ---
 ::
