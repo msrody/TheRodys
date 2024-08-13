@@ -14,14 +14,13 @@ head: true
 
 ::hero
 ---
-image: public/Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg
+image: 'public/Articles/Itinerating2024/202407PhotoCollages/SunsetCandMtns-Med.jpg'
 ---
 #title
 Our Itineration Has Begun!
 
 #description
 The process of Itineration has begun. We are meeting with Pastors, visiting and preaching at churches and making connections.
-
 ::
 
 ## Back in the US
