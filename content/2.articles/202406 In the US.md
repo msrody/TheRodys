@@ -38,7 +38,7 @@ The things we've seen are interesting, but far better are all the people we've b
 
 ::galleryPortrait
 ---
-images: [/Articles/Itinerating2024/202407PhotoCollages/Friends-COLLAGE-Smallest.jpg, /Articles/Itinerating2024/202407PhotoCollages/Family_COLLAGE-Smallest.jpg]
+images: [public/Articles/Itinerating2024/202407PhotoCollages/Friends -COLLAGE - Smallest.jpg, public/Articles/Itinerating2024/202407PhotoCollages/Family_COLLAGE-Smallest.jpg]
 alttxt: ["We find friends everywhere.","Family is fundamental and much better in person."]
 ---
 ::
