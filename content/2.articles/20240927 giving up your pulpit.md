@@ -1,6 +1,5 @@
 ---
-cover: 
-'/Articles/thoughts/ChurchAtThumbnail.webp'
+cover: '/Articles/thoughts/ChurchAtThumbnail.webp'
 author:
   name: MSRody
   avatarUrl: public/MikeWithMicBlue_sm.jpg
