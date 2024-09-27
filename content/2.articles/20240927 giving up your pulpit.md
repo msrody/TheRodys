@@ -35,7 +35,7 @@ This very situation lead to a conversation with a pastor recently who essentiall
 Having Pastored in Ferndale for 13 years I can totally relate to this struggle. We want our congregation to be engaged in missions but not all missionaries are engaging. There's no doubt that some great missionaries struggle to communicate effectively in the US and find it difficult to inspire support from congregations here. Many missionaries benefit from a short mission moment and a pastor who can carry the ball for them inspiring support from within their congregation.
 
 Amazingly, there is a simple, modern solution to this dilema, because other churches have already provided the missionary's portfolio of preaching and missions moments on **YouTube**. That's right, YouTube. Just search for this unknown missionary in YouTube and see what comes up. 
-To test this out I searched for Chelly and I to see what would come up. I put the following string of text into the YouTube search window:
+To test this out I searched for Chelly and I to see what would come up. I put the following string of text into the YouTube search window,
 
 "Mike & Chelly Rody" | "Mike Rody" | "Chelly Rody" | "Michael Rody" | "Pastor Mike Rody" |  "Michael S. Rody"
 
