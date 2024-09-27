@@ -14,9 +14,7 @@ head: true
 
 ::hero
 ---
-image: 
-/Articles/thoughts/ChurchAtThumbnail.webp
-
+image: /Articles/thoughts/ChurchAtThumbnail.webp
 ---
 #title
 Pastor to Pastors - What To Do With Missionaries You Don't Know.
