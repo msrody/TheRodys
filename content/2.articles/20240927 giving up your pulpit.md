@@ -7,7 +7,7 @@ author:
   link: https://www.facebook.com/mike.rody
 date: 2024-07-01T00:11:00.000Z
 layout: article
-title: Pastor to Pastors: What To Do With Missionaries You Don't Know.
+title: Pastor to Pastors - What To Do With Missionaries You Don't Know.
 description: How to determine if a missionary the pastor doesn't know should be invited for a Missions Moment or be given the pulpit for the full service.
 draft: true
 head: true
