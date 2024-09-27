@@ -1,6 +1,6 @@
 ---
 cover: 
-'/Articles//thoughts/ChurchAtThumbnail.webp'
+'/Articles/thoughts/ChurchAtThumbnail.webp'
 author:
   name: MSRody
   avatarUrl: public/MikeWithMicBlue_sm.jpg
@@ -16,11 +16,11 @@ head: true
 ::hero
 ---
 image: 
-/Articles//thoughts/ChurchAtThumbnail.webp
+/Articles/thoughts/ChurchAtThumbnail.webp
 
 ---
 #title
-Pastor to Pastors: What To Do With Missionaries You Don't Know.
+Pastor to Pastors - What To Do With Missionaries You Don't Know.
 
 #description
 How to determine if a missionary the pastor doesn't know should be invited for a Missions Moment or be given the pulpit for the full service.  
