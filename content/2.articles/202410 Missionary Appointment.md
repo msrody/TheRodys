@@ -47,7 +47,7 @@ We received our preliminary budget. This represents the money we will need to ra
 <details>
 <summary>Ready to make a pledge?</summary>
 
-    * You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
+  > You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
 
 </details>
 
