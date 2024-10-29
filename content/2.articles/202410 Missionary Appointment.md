@@ -23,15 +23,17 @@ Approval For Missionary Appointment!
 
 #description
 After 11 years serving as Missionary Associates, we took the trek to Springfield for interviews and orientation in order to be approved for full appointment with Assembly of God World Missions. It's been quite a journey.
+
 ::
 
+# "Full Appointment"
 One of the primary reasons for our return to the US was to fulfill our commitment to pursue full appointment with AGWM. We've served for the past 11 years at Missionary Associates and then Career Missionary Associates. For us it's been more of an administrative designation that had little impact on our ministry. However, AGWM is a big part of our ministry and moving forward it just seemed better for us to pursue full appointment. So after 11 years of hiding out, laying low, flying under the radar, we're now taking on the responsibility and opportunity of being fully appointed missionaries with AGWM.
 
 To accomplish this, we've filled out forms, written essays, filled out more forms, had background checks and financial clearance. We submitted applications with references and submitted more references. The final step was to go to Springfield. That was an adventure in itself that we may write about in another article, but with some schedule shifting on their part, it worked out for us to go this year.
 
 <center>
 
-![Springfield Adventure collage](/Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg)
+![Springfield Adventure collage](./Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg)
 _The weather was cold, but he people were warm and our adventure ended well._  
 <small>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
 Assemblies of God World Missions, Lower-right Our stress for the week.)</small>
@@ -47,7 +49,7 @@ We received our preliminary budget. This represents the money we will need to ra
 <details>
 <summary>Ready to make a pledge?</summary>
 
-#### You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
+>> You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
 
 </details>
 
