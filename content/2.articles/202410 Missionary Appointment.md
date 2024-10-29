@@ -33,8 +33,8 @@ To accomplish this, we've filled out forms, written essays, filled out more form
 
 ![Springfield Adventure collage](/Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg)
 _The weather was cold, but he people were warm and our adventure ended well._  
-<sup>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
-Assemblies of God World Missions, Lower-right Our stress for the week.)</sup>
+<small>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
+Assemblies of God World Missions, Lower-right Our stress for the week.)</small>
 
 </center>
 
@@ -47,7 +47,7 @@ We received our preliminary budget. This represents the money we will need to ra
 <details>
 <summary>Ready to make a pledge?</summary>
 
-  > You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
+#### You can follow this [link](https://commitment.agwm.org/?AcctNo=2512630) to our [online pledge form](https://commitment.agwm.org/?AcctNo=2512630).
 
 </details>
 
