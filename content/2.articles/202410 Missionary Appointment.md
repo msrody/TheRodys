@@ -13,7 +13,7 @@ head: true
 ---
 
 ::hero
-
+---
 image: /Articles/Itinerating2024/202410 Photos/20241015_FlagHallwayAGWMHQ.jpg
 
 ---
