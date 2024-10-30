@@ -26,8 +26,6 @@ After 11 years serving as Missionary Associates, we took the trek to Springfield
 
 ::
 
-# "Full Appointment"
-
 One of the primary reasons for our return to the US was to fulfill our commitment to pursue full appointment with AGWM. We've served for the past 11 years at Missionary Associates and then Career Missionary Associates. For us it's been more of an administrative designation that had little impact on our ministry. However, AGWM is a big part of our ministry and moving forward it just seemed better for us to pursue full appointment. So after 11 years of hiding among the baskets, laying low, flying under the radar, we're now taking on the responsibility and opportunity of being fully appointed missionaries with AGWM.
 
 To accomplish this, we've Prayed, filled out forms, written essays, filled out more forms, prayed more, had background checks and financial clearance. We sent pictures and emails and carried on numerous concurrent conversation streams. We submitted applications with references and submitted more references when our references were too close to the process. We missed a few deadlines and were given much grace. When it was all done, the final step was to go to Springfield. That was an adventure in itself that we may write about in another article, but with some schedule shifting on their part, it worked out for us to go this year.
