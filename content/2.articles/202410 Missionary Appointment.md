@@ -35,9 +35,9 @@ To accomplish this, we've Prayed, filled out forms, written essays, filled out m
 <div style="line-height: 80%; text-align: center;">
 
 ![Springfield Adventure collage](</Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg>)
-_The weather was cold, but he people were warm and our adventure ended well._  
-<small><sup><sub>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
-Assemblies of God World Missions, Lower-right Our stress for the week.)</sub></sup></small>
+_The weather was cold, but he people were warm and our adventure ended well._</br>
+<small>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
+Assemblies of God World Missions, Lower-right Our stress for the week.)</small>
 
 </div>
 
