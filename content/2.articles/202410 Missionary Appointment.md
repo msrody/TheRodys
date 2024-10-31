@@ -31,11 +31,10 @@ One of the primary reasons for our return to the US was to fulfill our commitmen
 To accomplish this, we've Prayed, filled out forms, written essays, filled out more forms, prayed more, had background checks and financial clearance. We sent pictures and emails and carried on numerous concurrent conversation streams. We submitted applications with references and submitted more references when our references were too close to the process. We missed a few deadlines and were given much grace. When it was all done, the final step was to go to Springfield. That was an adventure in itself that we may write about in another article, but with some schedule shifting on their part, it worked out for us to go this year.
 
 
-![Springfield Adventure collage](</Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg>) <div style="font-size: 80%; line-height: 80%; text-align: center;">
-_The weather was cold, but he people were warm and our adventure ended well._<br>
+![Springfield Adventure collage](</Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg>) <div style="font-size: 80%; line-height: 80%; text-align: center;"></br>
+_The weather was cold, but the people were warm and our adventure ended well._<br>
 <small>(Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
 Assemblies of God World Missions, Lower-right Our stress for the week.)</small>
-
 </div>
 
 Our whole time there was full of meetings, administrative orientation and interviews.
