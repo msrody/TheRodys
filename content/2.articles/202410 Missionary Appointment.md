@@ -12,31 +12,24 @@ draft: true
 head: true
 ---
 
-::hero
----
-image: /Articles/Itinerating2024/202410 Photos/20241015_FlagHallwayAGWMHQ.jpg
----
-#title
-Approval For Missionary Appointment!
 
-#description
-After 11 years serving as Missionary Associates, we took the trek to Springfield for interviews and orientation in order to be approved for full appointment with Assembly of God World Missions. It's been quite a journey.
----
-::
+![Flags of the world hallway](</Articles/Itinerating2024/202410 Photos/20241015_FlagHallwayAGWMHQ.jpg>)
 
-One of the primary reasons for our return to the US was to fulfill our commitment to pursue full appointment with AGWM. We've served for the past 11 years at Missionary Associates and then Career Missionary Associates. For us it's been more of an administrative designation that had little impact on our ministry. However, AGWM is a big part of our ministry and moving forward it just seemed better for us to pursue full appointment. So after 11 years of hiding among the baskets, laying low, flying under the radar, we're now taking on the responsibility and opportunity of being fully appointed missionaries with AGWM.
 
+Almost 25 years ago, Chelly and I were first encouraged, by Russ Turney and Bill Snider, to pursue full appoitment with Assemblies of God World Missions. Now, so many years later, after 11 years serving as Missionary Associates, we took the trek to Springfield for interviews and orientation in order to be approved for full appointment. It's been quite a journey and is one of the primary reasons for our return to the US. For us, serving as Missionary Associate has been more of an administrative designation that had little impact on our ministry. However, AGWM is a big part of our ministry and moving forward it just seemed better for us to pursue full appointment. So after all this time hiding among the baskets, laying low, flying under the radar, we're now taking on the responsibility and opportunity of being fully appointed missionaries with AGWM.
+
+## The Process
 To accomplish this, we've Prayed, filled out forms, written essays, filled out more forms, prayed more, had background checks and financial clearance. We sent pictures and emails and carried on numerous concurrent conversation streams. We submitted applications with references and submitted more references when our references were too close to the process. We missed a few deadlines and were given much grace. When it was all done, the final step was to go to Springfield. That was an adventure in itself that we may write about in another article, but with some schedule shifting on their part, it worked out for us to go this year.
 
 <div style="border-radius: 2%;background-color: WhiteSmoke;display: flex;flex-direction: column; text-align: center;"> 
-<img style="border-radius: 2%; margin: 0%;padding: 2%;" src="/Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg" alt="Springfield Adventure Collage">
-<div style="padding-right: 2%;padding-left: 2%;">
+<img style="border-radius: 2%; margin: 0%;padding-right: 2%;padding-left: 2%;padding-top: 2%;" src="/Articles/Itinerating2024/202410 Photos/202410-SpringfieldAdventure-COLLAGE.jpg" alt="Springfield Adventure Collage">
+<div style="line-height: 120%;padding-right: 2%;padding-left: 2%;padding-bottom: .25%;color:DimGray;">
   The Weather was cold; the people were warm; our adventure ended well.
-<div style="font-size: 80%;font-style: italic;line-height: 98%;padding-right: 2%;padding-left: 2%;padding-bottom: 2%;">
+  </div>
+<div style="font-size: 80%;font-style: italic;line-height: 98%;padding-right: 2%;padding-left: 2%;padding-bottom: 2%;color:DimGray;">
   (Top left Gill Rodriguez - AGWM Mobilization;Middle - Dave Ellis - Friend and Latin America Caribbean Regional Director; Mid-Right Russ & Patsy Turney - former AGWM regional director for Asia Pacific; Lower-left Dr. John Easter - Executive Director
   Assemblies of God World Missions, Lower-right Our stress for the week.)
   </br>
-  </div>
   </div>
 </div>
 
