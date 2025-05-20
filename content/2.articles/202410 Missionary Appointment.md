@@ -37,7 +37,7 @@ Our whole time there was full of meetings, administrative orientation and interv
 
 ## Budget
 
-We received our preliminary budget. This represents the money we will need to raise in order to get approval to retun to Indonesia. The funding will include all of our expenses for living, work and projects and has subsequently frown to almost $9000 a month. We think it may be as much as $10,000 a month by the time it is finalized. That means we need 100 churches, families or individuals to partner with us for $100 a month. Now that's a big ask, but God will provide.
+We received our preliminary budget. This represents the money we will need to raise in order to get approval to retun to Indonesia. The funding will include all of our expenses for living, work and projects and has subsequently grown to over $9000 a month. We think it may be as much as $10,000 a month by the time it is finalized. That means we need 100 churches, families or individuals to partner with us for $100 a month. Now that's a big ask, but God will provide.
 
 <details>
 
