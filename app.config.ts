@@ -42,7 +42,7 @@ export default defineAppConfig({
 
       github: 'msrody',
       facebook: 'mike.rody',
-      youtube: '@ieschurch'
+      youtube: '@MikeRody'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
