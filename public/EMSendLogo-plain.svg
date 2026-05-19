@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.00001mm"
+   height="70mm"
+   viewBox="0 0 110.00001 70"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-23.746961,-21.230737)">
+    <g
+       id="g31"
+       transform="translate(-5.1277959,-152.12461)">
+      <rect
+         style="fill:#d7f4e3;fill-opacity:1;stroke-width:0.0620443;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect31"
+         width="110"
+         height="70"
+         x="28.874758"
+         y="173.35535" />
+      <path
+         style="fill:#2a2aff;fill-opacity:1;stroke-width:0.034711;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 40.54872,238.35534 v -59.99998 l 28.284271,29.99999 z"
+         id="path6" />
+      <path
+         style="fill:#5555ff;fill-opacity:1;stroke-width:0.034711;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 33.874632,220.78175 40.000001,-42.4264 H 33.874632 Z"
+         id="path2" />
+      <path
+         style="fill:#8080ff;fill-opacity:1;stroke-width:0.034711;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="M 73.874633,238.35535 33.874632,195.92894 v 42.42641 z"
+         id="path4" />
+      <path
+         style="fill:#5500d4;fill-opacity:1;stroke-width:0.0357483;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 73.874886,178.35534 h 59.999994 l -30,30 z"
+         id="path22" />
+      <path
+         style="fill:#5500d4;fill-opacity:1;stroke-width:0.0357483;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 73.874886,178.35534 v 60 l 29.999994,-30 z"
+         id="path23" />
+      <rect
+         style="fill:#9955ff;fill-opacity:1;stroke-width:0.0421265;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect25"
+         width="42.426407"
+         height="42.426407"
+         x="-95.092056"
+         y="199.56689"
+         transform="rotate(-45.000002)" />
+      <path
+         id="path24"
+         style="fill:#ccaaff;fill-opacity:1;stroke-width:0.0357484;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 73.874905,178.35534 29.999715,30 30.00024,30 v -60 z" />
+    </g>
+  </g>
+</svg>
